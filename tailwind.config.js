@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{js,jsx}'], theme: { extend: { fontFamily:{sans:['DM Sans','sans-serif'],display:['Barlow Condensed','sans-serif']}, colors:{amberbrand:'#ff781f',ink:'#130e0b'} } }, plugins: [] };
